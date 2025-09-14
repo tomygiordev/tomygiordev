@@ -15,7 +15,7 @@ Tomy Giorgi
 </pre>
 <hr>
 
-## 🤝 Contácto
+## 🤝 Contacto
 
 <p align="center">
 		<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tomasroldangiorgi@gmail.com">
