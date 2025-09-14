@@ -18,7 +18,9 @@ Tomy Giorgi
 ## 🤝 Contácto
 
 <p align="center">
-		<a href="mailto:tomasroldangiorgi@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+		<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tomasroldangiorgi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 	<a href="https://ar.linkedin.com/in/tomás-roldán-giorgi-a3969737b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/tomygiorgi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
