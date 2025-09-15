@@ -10,7 +10,7 @@ Tomy Giorgi
 <pre>
 💻 Estudiante de análisis en sistemas de información
 📚 UADER FCYT
-📝 Trabajando en desarrollo web y de aplicaciones
+📝 Trabajando en desarrollo web y de software
 😃 Actualmente como pasante en empresa de construcción, implementando en la misma una landing page y un gestor de inventario.
 </pre>
 <hr>
