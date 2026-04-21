@@ -15,15 +15,15 @@ nombre: Tomas Roldán Giorgi
 ubicación: Paraná, Entre Ríos, Argentina 🇦🇷
 educación: Analista en Sistemas de Información @ UADER FCYT
 rol_actual: IT Developer en empresa de construcción
-enfoque: Full Stack Web Development
-aprendiendo: AI/RAG Systems · Cloud Architecture
+enfoque: Backend-first · Full Stack Development
+aprendiendo: AI/RAG Systems · Ciberseguridad · Rust · Cloud Architecture
 ```
 
 - 🔭 &nbsp;Construyendo **[Apiario OS](https://github.com/tomygiordev/Apiario-OS)** — Sistema integral de gestión apícola
 - 💼 &nbsp;Implementando soluciones IT en el sector de la construcción
 - 🌱 &nbsp;Explorando **Inteligencia Artificial** y sistemas **RAG** con Python
 - 🎯 &nbsp;Enfocado en arquitectura limpia y buenas prácticas de desarrollo
-- ⚡ &nbsp;Fun fact: Cuando no estoy codeando, probablemente esté con las abejas 🐝
+- ⚡ &nbsp;Fun fact: Prefiero debuggear en producción antes que escribir documentación — y no me arrepiento
 
 ---
 
@@ -41,6 +41,7 @@ aprendiendo: AI/RAG Systems · Cloud Architecture
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 </details>
 
